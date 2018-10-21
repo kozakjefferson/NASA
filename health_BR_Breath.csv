@@ -1,0 +1,487 @@
+﻿name,pais,cod,year,list,n_cause,Diseases,sex,all,total age 0 year,1 -4 year,5-9 year,10-14 year,15-19 year,20-24 year,25-29 year,30-34 year,35-39 year,40-44 year,45-49 year,50-54 year,55-59 year,60-64 year,65-69 year,70-74 year,75-79 year,80-84 year,85 year and above,age,unknown age
+Brazil,BRA,2070,1998,104,30,Tuberculosis,males,4570,11,17,5,14,41,102,175,286,430,469,483,460,428,381,369,295,235,133,123,0,113
+Brazil,BRA,2070,1998,104,390,Lower respiratory infections,males,17614,2359,864,164,136,203,257,396,466,557,680,700,679,731,935,1128,1493,1593,1739,2346,0,188
+Brazil,BRA,2070,1998,104,400,Upper respiratory infections,males,87,18,22,3,1,1,0,3,1,3,0,5,2,2,1,0,6,4,5,10,0,0
+Brazil,BRA,2070,1998,104,410,Otitis media,males,60,20,10,2,0,3,2,2,4,0,3,2,2,4,1,0,5,0,0,0,0,0
+Brazil,BRA,2070,1998,104,30,Tuberculosis,unknown,6,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1
+Brazil,BRA,2070,1998,104,30,Tuberculosis,females,1847,19,15,10,13,47,98,119,134,125,174,137,161,117,122,138,106,113,78,91,0,30
+Brazil,BRA,2070,1999,104,30,Tuberculosis,unknown,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0
+Brazil,BRA,2070,1999,104,30,Tuberculosis,females,1818,13,18,4,9,46,73,126,126,133,170,139,130,137,140,131,126,120,84,84,0,9
+Brazil,BRA,2070,2000,104,30,Tuberculosis,unknown,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2000,104,30,Tuberculosis,females,1704,17,15,10,15,37,67,87,113,135,148,123,144,149,129,121,133,91,83,80,0,7
+Brazil,BRA,2070,2001,104,30,Tuberculosis,females,1627,6,14,7,8,32,60,71,101,131,136,143,141,118,142,116,136,104,67,86,0,8
+Brazil,BRA,2070,2001,104,30,Tuberculosis,unknown,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+Brazil,BRA,2070,2002,104,30,Tuberculosis,females,1513,6,11,5,11,26,52,75,89,128,115,130,118,114,117,110,108,120,77,92,0,9
+Brazil,BRA,2070,2002,104,30,Tuberculosis,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2003,104,30,Tuberculosis,unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2003,104,30,Tuberculosis,females,1534,7,10,2,8,35,52,80,97,103,129,115,125,110,116,124,130,109,74,92,0,16
+Brazil,BRA,2070,2004,104,30,Tuberculosis,females,1535,6,14,7,11,32,57,74,96,100,108,159,104,124,98,116,105,122,97,100,0,5
+Brazil,BRA,2070,2004,104,30,Tuberculosis,unknown,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2005,104,30,Tuberculosis,females,1488,5,3,9,10,18,39,65,95,116,116,127,99,113,96,113,128,119,108,103,0,6
+Brazil,BRA,2070,2005,104,30,Tuberculosis,unknown,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2006,104,30,Tuberculosis,females,1544,7,9,5,15,37,72,77,82,90,115,143,125,114,112,128,117,115,78,96,0,7
+Brazil,BRA,2070,2006,104,30,Tuberculosis,unknown,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Brazil,BRA,2070,2007,104,30,Tuberculosis,females,1411,3,9,3,8,19,50,78,58,88,116,118,101,121,126,107,98,129,92,85,0,2
+Brazil,BRA,2070,2007,104,30,Tuberculosis,unknown,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2008,104,30,Tuberculosis,females,1419,5,6,6,9,33,35,79,74,86,116,107,104,111,118,110,117,99,94,98,0,12
+Brazil,BRA,2070,2008,104,30,Tuberculosis,unknown,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Brazil,BRA,2070,2009,104,30,Tuberculosis,females,1404,4,1,5,11,23,47,65,73,84,101,115,120,112,109,116,110,118,81,101,0,8
+Brazil,BRA,2070,2009,104,30,Tuberculosis,unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2010,104,30,Tuberculosis,unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2010,104,30,Tuberculosis,females,1404,4,8,5,9,24,50,70,83,95,106,96,118,115,120,107,125,103,64,100,0,2
+Brazil,BRA,2070,2011,104,30,Tuberculosis,females,1248,3,5,3,4,23,47,53,65,69,80,103,103,98,100,107,112,95,85,89,0,4
+Brazil,BRA,2070,2011,104,30,Tuberculosis,unknown,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2012,104,30,Tuberculosis,females,1291,2,6,5,8,28,49,56,62,76,91,95,115,107,111,85,98,102,93,100,0,2
+Brazil,BRA,2070,2012,104,30,Tuberculosis,unknown,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+Brazil,BRA,2070,2013,104,30,Tuberculosis,females,1309,5,3,3,10,19,42,44,66,83,87,110,112,128,77,124,122,84,81,103,0,6
+Brazil,BRA,2070,2013,104,30,Tuberculosis,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2014,104,30,Tuberculosis,unknown,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+Brazil,BRA,2070,1998,104,670,"Trachea, bronchus, lung cancers",males,9605,1,2,1,2,18,24,23,49,100,229,480,684,1160,1541,1715,1566,1117,551,320,0,22
+Brazil,BRA,2070,2014,104,30,Tuberculosis,females,1281,5,8,3,9,26,37,64,71,76,98,101,100,101,104,100,105,91,80,96,0,6
+Brazil,BRA,2070,2015,104,30,Tuberculosis,females,1313,1,1,1,10,26,43,57,78,81,85,87,130,118,93,125,93,97,95,89,0,3
+Brazil,BRA,2070,2015,104,30,Tuberculosis,unknown,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Brazil,BRA,2070,1998,104,1120,Chronic obstructive pulmonary disease,males,18894,22,13,7,8,23,23,33,44,73,152,263,544,1021,1749,2760,3442,3281,2852,2522,0,62
+Brazil,BRA,2070,1998,104,1130,Asthma,males,1093,59,73,15,9,17,20,24,27,39,37,49,64,74,92,111,126,99,77,68,0,13
+Brazil,BRA,2070,1998,104,1530,Fires,males,723,23,90,28,17,26,53,56,46,54,43,49,32,44,18,36,29,17,15,21,0,26
+Brazil,BRA,2070,1998,104,1542,Natural disasters,males,120,1,4,1,3,11,12,15,11,14,8,9,9,6,7,3,3,0,1,0,0,2
+Brazil,BRA,2070,1999,104,30,Tuberculosis,males,4530,17,15,9,9,27,94,177,294,405,499,496,454,412,410,370,301,224,139,104,0,74
+Brazil,BRA,2070,1999,104,390,Lower respiratory infections,males,16431,2028,813,154,123,202,212,299,427,530,674,611,619,788,898,1119,1394,1507,1588,2315,0,130
+Brazil,BRA,2070,1999,104,400,Upper respiratory infections,males,106,18,26,6,5,4,2,1,2,1,4,1,5,5,6,1,4,3,4,8,0,0
+Brazil,BRA,2070,1999,104,410,Otitis media,males,43,14,6,2,0,1,1,0,0,1,5,2,1,1,5,1,3,0,0,0,0,0
+Brazil,BRA,2070,1999,104,670,"Trachea, bronchus, lung cancers",males,9818,0,1,3,5,8,23,33,38,102,237,475,784,1193,1521,1706,1680,1071,593,333,0,12
+Brazil,BRA,2070,1999,104,1120,Chronic obstructive pulmonary disease,males,18921,17,14,4,9,17,24,28,41,85,157,297,537,936,1743,2560,3490,3409,2827,2685,0,41
+Brazil,BRA,2070,1999,104,1130,Asthma,males,1048,37,81,19,18,19,25,23,28,34,43,51,51,53,97,116,98,98,67,85,0,5
+Brazil,BRA,2070,1999,104,1530,Fires,males,645,19,65,35,18,23,30,41,50,52,46,47,32,33,34,34,23,21,15,14,0,13
+Brazil,BRA,2070,1999,104,1542,Natural disasters,males,124,1,3,6,6,15,16,12,11,13,11,11,6,7,3,1,0,1,0,1,0,0
+Brazil,BRA,2070,2000,104,30,Tuberculosis,males,4295,11,16,14,13,43,85,145,249,380,442,456,453,408,350,322,327,237,158,128,0,58
+Brazil,BRA,2070,2000,104,390,Lower respiratory infections,males,16013,1786,709,143,98,180,235,290,347,543,667,666,666,741,904,1028,1341,1589,1573,2403,0,104
+Brazil,BRA,2070,2000,104,400,Upper respiratory infections,males,105,22,19,2,2,2,1,5,1,5,5,8,5,2,5,2,4,4,5,6,0,0
+Brazil,BRA,2070,2000,104,410,Otitis media,males,53,9,5,3,3,3,2,2,3,2,0,4,3,2,3,2,2,1,2,2,0,0
+Brazil,BRA,2070,2000,104,670,"Trachea, bronchus, lung cancers",males,10119,1,1,2,4,10,18,17,35,76,225,491,775,1062,1606,1698,1751,1294,652,392,0,9
+Brazil,BRA,2070,2000,104,1120,Chronic obstructive pulmonary disease,males,19119,18,12,3,4,14,14,29,31,62,157,250,529,959,1744,2541,3479,3553,2824,2872,0,24
+Brazil,BRA,2070,2000,104,1130,Asthma,males,1060,50,74,13,11,12,8,17,22,34,41,47,60,67,90,127,108,106,85,87,0,1
+Brazil,BRA,2070,2000,104,1530,Fires,males,653,19,82,39,14,23,37,42,46,36,47,36,46,24,27,24,28,26,25,21,0,11
+Brazil,BRA,2070,2000,104,1542,Natural disasters,males,143,0,3,7,16,18,16,13,12,16,12,7,5,5,5,4,1,2,0,0,0,1
+Brazil,BRA,2070,2001,104,30,Tuberculosis,males,4282,14,19,8,11,43,90,158,243,337,468,473,469,362,349,337,312,237,159,129,0,64
+Brazil,BRA,2070,2001,104,390,Lower respiratory infections,males,16316,1600,665,140,113,167,176,264,377,497,612,678,772,704,904,1109,1471,1707,1630,2642,0,88
+Brazil,BRA,2070,2001,104,400,Upper respiratory infections,males,100,16,15,5,4,3,1,2,1,6,1,5,3,7,5,2,6,5,7,6,0,0
+Brazil,BRA,2070,2001,104,410,Otitis media,males,54,10,5,2,3,5,4,2,2,2,1,0,2,3,3,3,2,1,2,2,0,0
+Brazil,BRA,2070,2001,104,670,"Trachea, bronchus, lung cancers",males,10432,2,1,1,4,8,17,26,38,99,257,480,750,1092,1615,1818,1848,1299,701,373,0,3
+Brazil,BRA,2070,2001,104,1120,Chronic obstructive pulmonary disease,males,18991,16,21,8,2,14,13,19,41,86,127,285,514,933,1716,2570,3441,3432,2900,2831,0,22
+Brazil,BRA,2070,2001,104,1130,Asthma,males,1011,42,69,19,16,9,16,20,24,21,38,36,56,66,90,103,109,111,85,81,0,0
+Brazil,BRA,2070,1998,104,390,Lower respiratory infections,females,15449,1845,797,130,145,154,180,203,246,255,316,300,359,401,621,834,1168,1540,1920,3937,0,98
+Brazil,BRA,2070,1998,104,390,Lower respiratory infections,unknown,35,8,3,0,0,1,0,0,0,1,0,2,0,3,1,2,2,2,3,1,0,6
+Brazil,BRA,2070,1999,104,390,Lower respiratory infections,unknown,31,8,2,0,0,0,0,1,0,0,2,0,1,0,2,3,1,1,2,3,0,5
+Brazil,BRA,2070,1999,104,390,Lower respiratory infections,females,14293,1578,718,129,112,133,170,145,202,243,270,318,360,451,576,783,1049,1399,1810,3806,0,41
+Brazil,BRA,2070,2000,104,390,Lower respiratory infections,unknown,13,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,1
+Brazil,BRA,2070,2000,104,390,Lower respiratory infections,females,14191,1487,669,130,107,125,159,192,218,218,253,288,300,405,603,726,1055,1443,1834,3943,0,36
+Brazil,BRA,2070,2001,104,390,Lower respiratory infections,females,14608,1224,559,109,113,146,149,143,201,239,296,271,365,458,561,778,1157,1454,1925,4432,0,28
+Brazil,BRA,2070,2001,104,390,Lower respiratory infections,unknown,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,2
+Brazil,BRA,2070,2002,104,390,Lower respiratory infections,unknown,14,5,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,3
+Brazil,BRA,2070,2002,104,390,Lower respiratory infections,females,16174,1185,536,121,101,143,149,176,216,237,283,326,363,468,597,872,1220,1770,2237,5138,0,36
+Brazil,BRA,2070,2003,104,390,Lower respiratory infections,unknown,7,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Brazil,BRA,2070,2003,104,390,Lower respiratory infections,females,16871,1152,533,120,91,122,146,161,185,221,261,344,429,479,611,905,1375,1889,2372,5446,0,29
+Brazil,BRA,2070,2004,104,390,Lower respiratory infections,females,18593,1121,539,122,97,125,152,169,200,217,292,320,430,531,703,1091,1467,2151,2655,6186,0,25
+Brazil,BRA,2070,2004,104,390,Lower respiratory infections,unknown,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+Brazil,BRA,2070,2005,104,390,Lower respiratory infections,females,17942,1045,502,101,81,116,137,146,153,235,273,361,387,497,569,992,1435,2085,2575,6228,0,24
+Brazil,BRA,2070,2005,104,390,Lower respiratory infections,unknown,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1
+Brazil,BRA,2070,2006,104,390,Lower respiratory infections,unknown,3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2006,104,390,Lower respiratory infections,females,21144,941,483,113,113,134,135,195,188,258,299,389,520,632,791,1150,1669,2510,3238,7353,0,33
+Brazil,BRA,2070,2007,104,390,Lower respiratory infections,females,22358,836,433,120,79,120,152,179,199,208,321,378,506,629,846,1298,1793,2707,3474,8066,0,14
+Brazil,BRA,2070,2007,104,390,Lower respiratory infections,unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Brazil,BRA,2070,2008,104,390,Lower respiratory infections,females,22960,783,390,106,88,125,133,153,195,257,316,414,546,677,914,1236,1902,2664,3682,8357,0,22
+Brazil,BRA,2070,2008,104,390,Lower respiratory infections,unknown,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5
+Brazil,BRA,2070,2009,104,390,Lower respiratory infections,females,27323,797,457,155,113,185,309,326,367,409,536,622,786,900,1064,1421,2255,3004,4172,9418,0,27
+Brazil,BRA,2070,2009,104,390,Lower respiratory infections,unknown,8,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,4
+Brazil,BRA,2070,2010,104,390,Lower respiratory infections,unknown,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Brazil,BRA,2070,2010,104,390,Lower respiratory infections,females,28053,610,376,106,83,132,168,184,222,278,340,514,669,875,1141,1555,2376,3224,4590,10592,0,18
+Brazil,BRA,2070,2011,104,390,Lower respiratory infections,females,30289,725,380,132,102,125,140,185,217,299,386,507,705,930,1145,1533,2398,3584,5023,11750,0,23
+Brazil,BRA,2070,2011,104,390,Lower respiratory infections,unknown,15,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3,0,7
+Brazil,BRA,2070,2012,104,390,Lower respiratory infections,females,31537,702,369,100,101,131,155,196,252,314,369,520,737,1008,1258,1744,2496,3718,5169,12171,0,27
+Brazil,BRA,2070,2012,104,390,Lower respiratory infections,unknown,10,0,0,2,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,3
+Brazil,BRA,2070,2013,104,390,Lower respiratory infections,females,34951,737,352,92,96,131,169,175,290,322,472,628,840,1131,1384,1900,2820,4076,5593,13712,0,31
+Brazil,BRA,2070,2013,104,390,Lower respiratory infections,unknown,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0
+Brazil,BRA,2070,2014,104,390,Lower respiratory infections,females,36490,655,357,96,92,122,150,158,247,302,396,540,828,1099,1460,1983,2826,4269,5801,15077,0,32
+Brazil,BRA,2070,2014,104,390,Lower respiratory infections,unknown,29,2,0,0,0,0,0,0,0,0,0,1,0,0,3,2,2,2,0,15,0,2
+Brazil,BRA,2070,2015,104,390,Lower respiratory infections,unknown,23,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,1,1,2,8,0,6
+Brazil,BRA,2070,2015,104,390,Lower respiratory infections,females,39999,552,325,74,74,124,144,134,230,281,386,574,885,1132,1649,2285,2948,4694,6438,17047,0,23
+Brazil,BRA,2070,1998,104,400,Upper respiratory infections,females,77,14,19,0,2,3,0,0,1,1,0,1,4,0,4,2,6,6,6,8,0,0
+Brazil,BRA,2070,1998,104,400,Upper respiratory infections,unknown,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,1999,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,1999,104,400,Upper respiratory infections,females,78,19,11,4,2,1,4,1,4,0,3,1,1,3,3,4,1,0,6,10,0,0
+Brazil,BRA,2070,2000,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2000,104,400,Upper respiratory infections,females,67,11,16,2,2,1,3,0,3,1,0,6,1,1,3,2,1,2,4,8,0,0
+Brazil,BRA,2070,2001,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2001,104,400,Upper respiratory infections,females,80,14,7,3,5,4,0,5,1,1,1,2,0,6,2,3,7,5,5,9,0,0
+Brazil,BRA,2070,2002,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2002,104,400,Upper respiratory infections,females,69,11,11,1,2,2,1,1,0,2,1,2,1,2,2,3,5,1,6,15,0,0
+Brazil,BRA,2070,2003,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2003,104,400,Upper respiratory infections,females,72,15,6,7,0,1,4,2,3,0,1,3,0,2,2,2,3,3,7,11,0,0
+Brazil,BRA,2070,2004,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2004,104,400,Upper respiratory infections,females,68,13,2,3,4,1,4,0,0,1,2,3,1,2,6,2,5,3,4,12,0,0
+Brazil,BRA,2070,2005,104,400,Upper respiratory infections,females,68,9,11,3,1,2,2,6,0,2,0,2,1,5,2,4,2,7,2,7,0,0
+Brazil,BRA,2070,2005,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2006,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2006,104,400,Upper respiratory infections,females,76,11,7,5,1,3,1,3,1,3,0,2,2,0,0,4,5,3,5,20,0,0
+Brazil,BRA,2070,2007,104,400,Upper respiratory infections,females,76,7,8,3,2,2,0,1,2,2,2,3,1,4,3,2,4,2,3,25,0,0
+Brazil,BRA,2070,2007,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2008,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2008,104,400,Upper respiratory infections,females,78,10,10,4,1,0,0,3,0,4,3,2,2,2,2,2,4,3,3,23,0,0
+Brazil,BRA,2070,2009,104,400,Upper respiratory infections,females,94,9,6,2,2,4,1,3,0,2,1,1,0,2,3,4,3,7,9,35,0,0
+Brazil,BRA,2070,2009,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2010,104,400,Upper respiratory infections,females,111,6,10,6,1,3,2,2,3,1,2,4,5,2,4,4,8,6,9,33,0,0
+Brazil,BRA,2070,2010,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2011,104,400,Upper respiratory infections,females,111,2,13,2,7,1,2,1,4,0,0,2,3,2,2,5,8,13,9,35,0,0
+Brazil,BRA,2070,2011,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2012,104,400,Upper respiratory infections,females,82,3,4,5,2,2,0,1,1,3,2,1,6,4,7,2,3,3,4,29,0,0
+Brazil,BRA,2070,2012,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2013,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2013,104,400,Upper respiratory infections,females,94,7,11,5,5,7,1,1,1,0,0,0,2,2,5,3,8,9,7,20,0,0
+Brazil,BRA,2070,2014,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2014,104,400,Upper respiratory infections,females,104,9,5,3,3,5,2,5,3,2,3,0,3,4,6,1,3,8,11,28,0,0
+Brazil,BRA,2070,2001,104,1530,Fires,males,651,19,76,29,19,24,43,35,37,48,52,34,31,32,30,29,27,23,18,20,0,25
+Brazil,BRA,2070,2015,104,400,Upper respiratory infections,females,111,7,8,4,3,3,6,0,6,3,1,3,1,2,4,6,2,11,9,32,0,0
+Brazil,BRA,2070,2015,104,400,Upper respiratory infections,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,1998,104,410,Otitis media,females,34,8,3,2,1,1,4,4,1,1,0,0,1,0,0,1,2,1,0,3,0,1
+Brazil,BRA,2070,1998,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2001,104,1542,Natural disasters,males,171,0,0,8,13,31,20,20,19,9,10,20,7,3,5,2,2,0,2,0,0,0
+Brazil,BRA,2070,1999,104,410,Otitis media,females,52,13,2,2,2,1,1,1,3,0,2,3,3,2,4,5,2,2,2,2,0,0
+Brazil,BRA,2070,1999,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2000,104,410,Otitis media,females,52,11,3,0,4,4,3,1,1,1,2,4,2,4,2,2,4,3,0,1,0,0
+Brazil,BRA,2070,2000,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2001,104,410,Otitis media,females,49,8,3,2,4,3,1,4,4,2,0,3,6,2,0,2,0,1,2,2,0,0
+Brazil,BRA,2070,2001,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2002,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2002,104,410,Otitis media,females,38,6,3,2,3,6,2,2,2,1,0,0,1,3,2,1,2,1,0,1,0,0
+Brazil,BRA,2070,2003,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2003,104,410,Otitis media,females,46,7,3,1,2,2,3,1,6,1,2,1,2,3,2,3,2,1,0,4,0,0
+Brazil,BRA,2070,2004,104,410,Otitis media,females,50,8,3,2,4,2,2,4,1,1,4,1,6,2,3,1,1,1,0,4,0,0
+Brazil,BRA,2070,2004,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2005,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2005,104,410,Otitis media,females,43,9,2,1,5,3,0,1,1,4,2,1,2,2,2,4,0,1,2,1,0,0
+Brazil,BRA,2070,2006,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2006,104,410,Otitis media,females,43,1,4,1,2,1,2,5,1,2,4,0,1,4,2,1,6,1,1,4,0,0
+Brazil,BRA,2070,2007,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2007,104,410,Otitis media,females,42,2,2,3,3,2,1,2,3,1,2,3,2,2,3,2,3,1,3,2,0,0
+Brazil,BRA,2070,2008,104,410,Otitis media,females,33,1,5,2,3,1,1,0,0,3,0,0,3,2,1,0,3,1,2,5,0,0
+Brazil,BRA,2070,2008,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2009,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2009,104,410,Otitis media,females,37,5,2,1,0,0,0,3,0,1,0,4,5,2,2,4,2,0,5,1,0,0
+Brazil,BRA,2070,2010,104,410,Otitis media,females,33,1,1,2,2,1,1,1,3,1,2,2,2,0,3,3,1,3,2,2,0,0
+Brazil,BRA,2070,2010,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2011,104,410,Otitis media,females,46,7,1,2,2,2,0,3,2,3,1,0,4,2,1,2,4,3,1,6,0,0
+Brazil,BRA,2070,2011,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2012,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2012,104,410,Otitis media,females,41,5,1,1,3,2,1,1,0,3,2,2,2,3,2,0,2,2,1,8,0,0
+Brazil,BRA,2070,2013,104,410,Otitis media,females,38,3,1,0,1,5,0,1,2,2,2,2,5,0,1,3,3,2,3,2,0,0
+Brazil,BRA,2070,2013,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2014,104,410,Otitis media,females,47,4,1,4,3,0,2,1,1,2,0,3,2,4,4,5,5,1,3,2,0,0
+Brazil,BRA,2070,2014,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2002,104,30,Tuberculosis,males,4093,9,22,7,9,33,104,156,210,297,437,447,435,371,345,345,276,235,161,133,0,61
+Brazil,BRA,2070,2015,104,410,Otitis media,females,43,4,1,2,0,1,0,1,2,0,3,5,2,4,4,1,1,3,2,7,0,0
+Brazil,BRA,2070,2015,104,410,Otitis media,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2002,104,390,Lower respiratory infections,males,17287,1393,559,118,111,188,202,274,394,542,636,726,729,801,942,1191,1556,1842,1932,3032,0,119
+Brazil,BRA,2070,2002,104,400,Upper respiratory infections,males,99,11,14,7,4,7,6,2,3,5,2,2,3,3,1,4,1,8,8,8,0,0
+Brazil,BRA,2070,2002,104,410,Otitis media,males,50,12,3,3,1,7,3,2,3,2,2,3,0,2,1,1,0,1,2,2,0,0
+Brazil,BRA,2070,2002,104,670,"Trachea, bronchus, lung cancers",males,10734,4,1,0,2,10,18,25,40,78,220,503,831,1124,1618,1915,1826,1386,723,405,0,5
+Brazil,BRA,2070,2002,104,1120,Chronic obstructive pulmonary disease,males,19642,20,15,2,9,10,15,29,38,62,148,326,577,954,1637,2538,3381,3625,3067,3172,0,17
+Brazil,BRA,2070,2002,104,1130,Asthma,males,913,43,64,14,8,11,18,24,28,23,32,34,41,52,83,100,99,92,68,77,0,2
+Brazil,BRA,2070,2002,104,1530,Fires,males,661,24,71,36,9,18,40,48,45,49,44,53,38,24,32,14,19,23,19,21,0,34
+Brazil,BRA,2070,2002,104,1542,Natural disasters,males,165,2,11,8,11,16,23,19,14,14,13,15,7,2,1,3,2,0,1,0,0,3
+Brazil,BRA,2070,2003,104,30,Tuberculosis,males,3993,15,13,4,9,35,73,139,219,307,390,454,410,319,351,359,264,238,175,150,0,69
+Brazil,BRA,2070,2003,104,390,Lower respiratory infections,males,18282,1553,591,129,120,181,222,276,383,511,630,681,790,824,990,1242,1663,2018,2119,3253,0,106
+Brazil,BRA,2070,2003,104,400,Upper respiratory infections,males,72,10,17,2,3,3,3,1,3,2,1,0,0,3,3,5,3,4,2,7,0,0
+Brazil,BRA,2070,2003,104,410,Otitis media,males,51,15,4,3,2,4,2,2,3,1,2,0,1,3,0,2,2,0,3,2,0,0
+Brazil,BRA,2070,2003,104,670,"Trachea, bronchus, lung cancers",males,11057,2,2,2,3,8,19,25,48,73,255,531,848,1189,1601,1966,1866,1414,752,446,0,7
+Brazil,BRA,2070,2003,104,1120,Chronic obstructive pulmonary disease,males,20759,20,15,5,3,9,13,17,43,51,162,285,521,932,1683,2721,3599,3962,3292,3414,0,12
+Brazil,BRA,2070,2003,104,1130,Asthma,males,985,46,75,10,5,15,20,26,22,31,36,50,63,68,81,84,117,92,59,85,0,0
+Brazil,BRA,2070,2003,104,1530,Fires,males,638,16,56,28,14,22,34,42,44,40,40,48,46,33,33,24,17,18,21,21,0,41
+Brazil,BRA,2070,2003,104,1542,Natural disasters,males,121,0,4,6,4,13,12,22,11,13,6,4,10,3,4,6,0,2,0,0,0,1
+Brazil,BRA,2070,2004,104,30,Tuberculosis,males,4000,13,17,4,5,36,93,142,185,276,388,488,450,370,324,324,320,239,150,129,0,47
+Brazil,BRA,2070,2004,104,390,Lower respiratory infections,males,19683,1360,614,135,115,185,205,291,377,600,660,769,864,864,1104,1377,1870,2207,2198,3778,0,110
+Brazil,BRA,2070,2004,104,400,Upper respiratory infections,males,75,15,10,3,2,2,2,0,3,1,3,4,5,1,1,7,1,3,7,5,0,0
+Brazil,BRA,2070,2004,104,410,Otitis media,males,44,7,1,3,2,4,5,0,3,2,1,0,4,2,1,2,2,3,0,2,0,0
+Brazil,BRA,2070,2004,104,670,"Trachea, bronchus, lung cancers",males,11730,0,1,1,3,4,17,21,48,98,267,552,955,1242,1627,2040,1995,1509,842,501,0,7
+Brazil,BRA,2070,2004,104,1120,Chronic obstructive pulmonary disease,males,21619,10,16,2,2,10,9,18,35,66,144,328,563,999,1679,2738,3717,4104,3458,3700,0,21
+Brazil,BRA,2070,2004,104,1130,Asthma,males,962,25,51,16,8,7,16,25,25,43,38,39,49,77,84,94,107,102,76,79,0,1
+Brazil,BRA,2070,1998,104,670,"Trachea, bronchus, lung cancers",females,3963,1,2,2,4,8,7,9,33,95,146,251,321,430,544,583,556,437,289,239,0,6
+Brazil,BRA,2070,1998,104,670,"Trachea, bronchus, lung cancers",unknown,11,0,0,0,0,0,0,0,0,0,0,0,2,2,2,3,0,1,0,1,0,0
+Brazil,BRA,2070,1999,104,670,"Trachea, bronchus, lung cancers",females,4305,1,1,1,3,9,13,25,45,77,165,281,371,441,568,647,633,458,324,237,0,5
+Brazil,BRA,2070,1999,104,670,"Trachea, bronchus, lung cancers",unknown,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0
+Brazil,BRA,2070,2000,104,670,"Trachea, bronchus, lung cancers",females,4593,1,2,1,2,6,12,18,34,94,180,253,379,476,634,715,693,458,355,274,0,6
+Brazil,BRA,2070,2000,104,670,"Trachea, bronchus, lung cancers",unknown,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+Brazil,BRA,2070,2001,104,670,"Trachea, bronchus, lung cancers",females,4758,2,1,1,3,12,10,18,30,67,190,269,434,551,640,661,699,512,331,325,0,2
+Brazil,BRA,2070,2001,104,670,"Trachea, bronchus, lung cancers",unknown,7,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,0,1,0,0,0,0
+Brazil,BRA,2070,2002,104,670,"Trachea, bronchus, lung cancers",unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Brazil,BRA,2070,2002,104,670,"Trachea, bronchus, lung cancers",females,4918,2,1,2,5,11,10,20,39,70,224,305,430,494,650,693,681,585,349,341,0,6
+Brazil,BRA,2070,2003,104,670,"Trachea, bronchus, lung cancers",unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2003,104,670,"Trachea, bronchus, lung cancers",females,5398,0,0,1,2,4,13,16,32,96,209,326,470,637,701,745,732,643,417,350,0,4
+Brazil,BRA,2070,2004,104,670,"Trachea, bronchus, lung cancers",unknown,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,1,0,0,0
+Brazil,BRA,2070,2004,104,670,"Trachea, bronchus, lung cancers",females,5757,2,1,4,1,6,8,17,27,99,201,339,490,636,752,820,847,679,436,388,0,4
+Brazil,BRA,2070,2005,104,670,"Trachea, bronchus, lung cancers",females,6072,0,1,1,2,5,11,24,41,81,205,404,547,613,748,867,842,781,468,427,0,4
+Brazil,BRA,2070,2005,104,670,"Trachea, bronchus, lung cancers",unknown,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2006,104,670,"Trachea, bronchus, lung cancers",unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2006,104,670,"Trachea, bronchus, lung cancers",females,6599,1,0,1,4,3,15,19,47,91,213,419,653,705,826,922,882,794,544,457,0,3
+Brazil,BRA,2070,2007,104,670,"Trachea, bronchus, lung cancers",unknown,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1
+Brazil,BRA,2070,2007,104,670,"Trachea, bronchus, lung cancers",females,7044,1,0,2,0,7,10,32,38,98,215,425,621,763,934,977,992,862,572,494,0,1
+Brazil,BRA,2070,2008,104,670,"Trachea, bronchus, lung cancers",unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2008,104,670,"Trachea, bronchus, lung cancers",females,7472,1,1,4,1,13,7,21,34,95,208,461,626,823,1001,1088,1011,917,639,517,0,4
+Brazil,BRA,2070,2009,104,670,"Trachea, bronchus, lung cancers",unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Brazil,BRA,2070,2009,104,670,"Trachea, bronchus, lung cancers",females,7775,0,0,2,2,9,10,17,53,93,191,487,721,849,940,1074,1134,947,699,544,0,3
+Brazil,BRA,2070,2010,104,670,"Trachea, bronchus, lung cancers",females,8190,1,3,2,6,4,17,15,39,68,208,407,771,942,1047,1210,1106,955,755,633,0,1
+Brazil,BRA,2070,2010,104,670,"Trachea, bronchus, lung cancers",unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2011,104,670,"Trachea, bronchus, lung cancers",females,8726,1,3,3,4,6,11,15,46,87,220,441,812,1080,1093,1198,1245,1042,777,640,0,2
+Brazil,BRA,2070,2011,104,670,"Trachea, bronchus, lung cancers",unknown,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Brazil,BRA,2070,2012,104,670,"Trachea, bronchus, lung cancers",unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Brazil,BRA,2070,2012,104,670,"Trachea, bronchus, lung cancers",females,9225,1,2,1,1,12,11,24,48,89,202,453,789,1082,1279,1233,1306,1117,890,685,0,0
+Brazil,BRA,2070,2013,104,670,"Trachea, bronchus, lung cancers",unknown,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0
+Brazil,BRA,2070,2013,104,670,"Trachea, bronchus, lung cancers",females,9675,2,1,1,0,12,7,21,44,83,206,434,866,1186,1306,1393,1327,1136,852,795,0,3
+Brazil,BRA,2070,2014,104,670,"Trachea, bronchus, lung cancers",females,10299,0,2,1,6,8,12,28,67,100,169,459,851,1257,1393,1495,1387,1289,940,834,0,1
+Brazil,BRA,2070,2014,104,670,"Trachea, bronchus, lung cancers",unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Brazil,BRA,2070,2015,104,670,"Trachea, bronchus, lung cancers",females,10978,3,1,1,2,8,10,21,56,82,181,444,892,1313,1569,1564,1521,1357,984,969,0,0
+Brazil,BRA,2070,2015,104,670,"Trachea, bronchus, lung cancers",unknown,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,1
+Brazil,BRA,2070,2004,104,1530,Fires,males,626,19,60,19,12,27,37,42,27,54,53,56,29,35,17,25,28,23,15,18,0,30
+Brazil,BRA,2070,2004,104,1542,Natural disasters,males,120,0,0,3,7,15,18,15,13,9,8,8,7,6,6,2,1,1,0,0,0,1
+Brazil,BRA,2070,2005,104,30,Tuberculosis,males,3797,6,9,9,6,33,76,112,174,265,358,419,423,375,332,336,270,238,161,141,0,54
+Brazil,BRA,2070,2005,104,390,Lower respiratory infections,males,18706,1289,505,104,110,178,183,230,330,478,604,793,794,936,1004,1329,1755,2137,2229,3639,0,79
+Brazil,BRA,2070,2005,104,400,Upper respiratory infections,males,81,13,8,6,1,3,4,3,2,0,1,3,2,2,5,5,7,7,2,7,0,0
+Brazil,BRA,2070,2005,104,410,Otitis media,males,45,11,2,3,2,2,7,1,4,3,1,2,1,4,1,0,0,1,0,0,0,0
+Brazil,BRA,2070,2005,104,670,"Trachea, bronchus, lung cancers",males,12005,1,2,2,4,5,18,19,41,96,244,552,931,1316,1674,2018,1971,1607,936,559,0,9
+Brazil,BRA,2070,2005,104,1120,Chronic obstructive pulmonary disease,males,20579,13,10,6,4,7,18,25,36,72,145,289,571,960,1597,2516,3506,3906,3392,3495,0,11
+Brazil,BRA,2070,2005,104,1130,Asthma,males,1013,37,61,14,7,17,26,33,23,33,56,60,46,71,67,96,85,91,87,102,0,1
+Brazil,BRA,2070,2005,104,1530,Fires,males,560,12,48,18,10,18,21,31,40,49,48,29,34,37,16,34,26,22,21,24,0,22
+Brazil,BRA,2070,2005,104,1542,Natural disasters,males,123,1,1,6,10,15,22,13,13,7,9,5,7,3,3,6,1,1,0,0,0,0
+Brazil,BRA,2070,2006,104,30,Tuberculosis,males,3783,3,12,5,6,24,77,135,184,237,352,436,395,412,321,345,279,239,144,137,0,40
+Brazil,BRA,2070,2006,104,390,Lower respiratory infections,males,22069,1256,567,165,115,190,193,294,357,515,689,875,939,1055,1218,1609,2063,2615,2840,4417,0,97
+Brazil,BRA,2070,2006,104,400,Upper respiratory infections,males,85,15,9,3,3,3,2,2,0,5,3,2,3,0,7,4,4,4,6,10,0,0
+Brazil,BRA,2070,2006,104,410,Otitis media,males,59,7,6,7,3,3,3,3,4,0,2,3,2,2,2,3,2,0,2,5,0,0
+Brazil,BRA,2070,2006,104,670,"Trachea, bronchus, lung cancers",males,12116,4,0,2,2,8,21,26,42,73,230,536,917,1380,1682,1966,1993,1683,978,570,0,3
+Brazil,BRA,2070,2006,104,1120,Chronic obstructive pulmonary disease,males,21052,10,12,7,4,12,17,23,48,65,140,293,560,982,1616,2593,3442,4056,3503,3661,0,8
+Brazil,BRA,2070,2006,104,1130,Asthma,males,1196,39,64,17,10,12,17,36,29,40,47,66,63,58,89,125,117,127,120,120,0,0
+Brazil,BRA,2070,2006,104,1530,Fires,males,634,14,46,32,9,26,42,29,31,48,51,41,40,30,32,31,25,23,23,28,0,33
+Brazil,BRA,2070,2006,104,1542,Natural disasters,males,132,1,2,5,8,15,17,15,12,12,9,3,8,11,7,1,1,2,2,0,0,1
+Brazil,BRA,2070,2007,104,30,Tuberculosis,males,3774,8,7,5,9,28,65,119,174,262,348,442,467,348,316,295,275,217,180,153,0,56
+Brazil,BRA,2070,2007,104,390,Lower respiratory infections,males,22820,1125,456,108,107,162,186,278,381,574,653,859,999,1187,1312,1707,2147,2761,2827,4890,0,101
+Brazil,BRA,2070,2007,104,400,Upper respiratory infections,males,89,12,12,3,1,4,1,3,1,3,1,3,3,4,4,2,4,16,1,11,0,0
+Brazil,BRA,2070,2007,104,410,Otitis media,males,36,2,3,1,0,3,1,1,0,0,3,4,4,1,1,4,3,1,1,3,0,0
+Brazil,BRA,2070,2007,104,670,"Trachea, bronchus, lung cancers",males,12807,1,1,1,6,11,18,27,34,79,255,547,962,1384,1767,2125,2096,1767,1037,681,0,8
+Brazil,BRA,2070,2007,104,1120,Chronic obstructive pulmonary disease,males,21134,20,13,2,8,12,18,35,39,70,153,292,601,999,1581,2466,3434,3947,3593,3836,0,15
+Brazil,BRA,2070,2007,104,1130,Asthma,males,1115,29,60,10,20,11,15,22,30,29,46,44,71,71,98,95,122,113,98,130,0,1
+Brazil,BRA,2070,2007,104,1530,Fires,males,673,13,48,19,14,21,42,39,52,50,56,60,41,35,30,33,30,32,24,20,0,14
+Brazil,BRA,2070,2007,104,1542,Natural disasters,males,131,1,5,7,8,14,11,12,4,17,8,14,12,6,1,7,3,0,0,0,0,1
+Brazil,BRA,2070,2008,104,30,Tuberculosis,males,3883,7,4,8,6,38,89,135,160,274,390,425,443,408,325,294,297,229,171,134,0,46
+Brazil,BRA,2070,2008,104,390,Lower respiratory infections,males,23335,1035,430,127,108,155,190,289,325,500,689,918,1076,1247,1376,1739,2231,2759,3106,4945,0,90
+Brazil,BRA,2070,2008,104,400,Upper respiratory infections,males,88,10,11,1,2,2,2,3,1,2,1,3,6,4,3,6,5,9,7,10,0,0
+Brazil,BRA,2070,2008,104,410,Otitis media,males,39,4,3,4,2,2,2,2,0,1,2,3,2,1,3,1,0,2,4,1,0,0
+Brazil,BRA,2070,2008,104,670,"Trachea, bronchus, lung cancers",males,13115,4,3,3,1,10,16,25,46,84,236,521,1009,1396,1889,2075,2218,1782,1116,675,0,6
+Brazil,BRA,2070,2008,104,1120,Chronic obstructive pulmonary disease,males,20848,8,11,4,4,9,13,29,45,70,144,321,597,1002,1545,2398,3365,3907,3434,3926,0,16
+Brazil,BRA,2070,2008,104,1130,Asthma,males,1021,22,48,17,14,12,16,31,25,25,35,53,70,67,91,80,93,100,99,123,0,0
+Brazil,BRA,2070,2008,104,1530,Fires,males,596,11,40,28,11,14,31,42,36,34,46,53,44,35,20,39,35,25,13,20,0,19
+Brazil,BRA,2070,2008,104,1542,Natural disasters,males,191,2,3,11,15,19,16,21,19,15,16,18,9,6,8,5,2,4,1,1,0,0
+Brazil,BRA,2070,2009,104,30,Tuberculosis,males,3839,7,6,4,7,25,79,139,174,239,358,416,458,432,356,298,260,227,179,137,0,38
+Brazil,BRA,2070,2009,104,390,Lower respiratory infections,males,26940,1016,416,140,145,199,312,441,551,663,935,1120,1333,1388,1519,1870,2610,2975,3484,5739,0,84
+Brazil,BRA,2070,2009,104,400,Upper respiratory infections,males,106,13,18,3,1,2,8,2,3,1,4,6,6,2,3,4,2,9,4,15,0,0
+Brazil,BRA,2070,2009,104,410,Otitis media,males,40,4,1,0,4,2,3,4,3,1,2,0,1,3,0,3,4,3,2,0,0,0
+Brazil,BRA,2070,2009,104,670,"Trachea, bronchus, lung cancers",males,13293,1,2,0,2,11,20,31,43,89,202,546,1000,1507,1807,2116,2235,1817,1129,728,0,7
+Brazil,BRA,2070,2009,104,1120,Chronic obstructive pulmonary disease,males,21051,17,13,2,5,16,7,17,44,59,113,282,613,1078,1573,2355,3416,3899,3557,3972,0,13
+Brazil,BRA,2070,2009,104,1130,Asthma,males,914,19,42,18,11,9,14,25,20,25,32,39,43,57,70,75,103,83,112,116,0,1
+Brazil,BRA,2070,2009,104,1530,Fires,males,516,6,32,23,8,17,31,27,50,31,41,42,38,26,21,29,27,23,18,13,0,13
+Brazil,BRA,2070,2009,104,1542,Natural disasters,males,123,1,2,9,6,13,12,12,13,16,3,15,7,3,5,3,0,0,1,1,0,1
+Brazil,BRA,2070,2010,104,30,Tuberculosis,males,3673,4,12,4,4,26,71,98,180,233,318,443,432,414,355,295,261,192,150,141,0,40
+Brazil,BRA,2070,1998,104,1120,Chronic obstructive pulmonary disease,females,11866,16,14,2,7,12,21,17,28,63,120,201,359,621,1031,1446,1727,1903,1923,2320,0,35
+Brazil,BRA,2070,1998,104,1120,Chronic obstructive pulmonary disease,unknown,41,0,0,0,0,0,0,0,0,1,0,1,1,0,1,10,7,8,4,4,0,4
+Brazil,BRA,2070,1999,104,1120,Chronic obstructive pulmonary disease,unknown,11,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,4,1,2,1,0,0
+Brazil,BRA,2070,1999,104,1120,Chronic obstructive pulmonary disease,females,11617,18,10,3,4,15,16,21,33,55,113,222,354,607,982,1341,1789,1861,1860,2292,0,21
+Brazil,BRA,2070,2000,104,1120,Chronic obstructive pulmonary disease,unknown,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,0,0
+Brazil,BRA,2070,2000,104,1120,Chronic obstructive pulmonary disease,females,11612,12,17,2,3,9,3,25,27,66,128,208,364,569,946,1369,1774,1859,1780,2438,0,13
+Brazil,BRA,2070,2001,104,1120,Chronic obstructive pulmonary disease,unknown,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2001,104,1120,Chronic obstructive pulmonary disease,females,11916,7,9,6,4,11,9,29,35,48,112,226,375,622,960,1343,1809,1879,1845,2584,0,3
+Brazil,BRA,2070,2002,104,1120,Chronic obstructive pulmonary disease,females,12448,12,17,3,4,6,13,19,31,47,113,208,372,608,936,1364,1924,2074,1976,2715,0,6
+Brazil,BRA,2070,2002,104,1120,Chronic obstructive pulmonary disease,unknown,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,0,0,1
+Brazil,BRA,2070,2003,104,1120,Chronic obstructive pulmonary disease,unknown,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+Brazil,BRA,2070,2003,104,1120,Chronic obstructive pulmonary disease,females,12787,14,9,3,3,5,14,12,35,46,101,247,368,600,976,1435,1914,2153,1945,2902,0,5
+Brazil,BRA,2070,2004,104,1120,Chronic obstructive pulmonary disease,females,13913,14,5,3,8,12,7,15,33,61,120,240,391,659,1036,1544,2023,2391,2235,3106,0,10
+Brazil,BRA,2070,2004,104,1120,Chronic obstructive pulmonary disease,unknown,6,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,1,1,0,0,0
+Brazil,BRA,2070,2005,104,1120,Chronic obstructive pulmonary disease,unknown,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0
+Brazil,BRA,2070,2005,104,1120,Chronic obstructive pulmonary disease,females,13028,6,9,0,4,9,8,15,21,38,107,219,348,616,915,1478,1905,2161,2114,3049,0,6
+Brazil,BRA,2070,2006,104,1120,Chronic obstructive pulmonary disease,females,14045,7,8,3,5,10,16,15,20,48,128,250,430,649,992,1565,1982,2354,2262,3291,0,10
+Brazil,BRA,2070,2006,104,1120,Chronic obstructive pulmonary disease,unknown,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0
+Brazil,BRA,2070,2007,104,1120,Chronic obstructive pulmonary disease,females,14088,11,10,5,3,8,7,6,34,46,106,238,446,675,1000,1502,1971,2389,2259,3367,0,5
+Brazil,BRA,2070,2010,104,390,Lower respiratory infections,males,27901,820,382,120,109,174,263,337,432,583,753,1075,1287,1473,1602,2041,2823,3323,3698,6482,0,124
+Brazil,BRA,2070,2007,104,1120,Chronic obstructive pulmonary disease,unknown,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,2,0,0
+Brazil,BRA,2070,2008,104,1120,Chronic obstructive pulmonary disease,unknown,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2010,104,400,Upper respiratory infections,males,103,13,11,1,1,6,3,5,0,3,3,2,2,2,5,2,11,8,4,21,0,0
+Brazil,BRA,2070,2008,104,1120,Chronic obstructive pulmonary disease,females,13950,9,3,6,0,4,17,16,27,41,124,246,416,665,1014,1528,2020,2299,2226,3286,0,3
+Brazil,BRA,2070,2010,104,410,Otitis media,males,43,5,3,2,1,1,1,2,1,2,6,2,3,2,1,2,3,2,1,3,0,0
+Brazil,BRA,2070,2009,104,1120,Chronic obstructive pulmonary disease,females,14434,9,7,3,3,6,10,17,24,44,113,242,508,708,1003,1432,2164,2432,2308,3398,0,3
+Brazil,BRA,2070,2009,104,1120,Chronic obstructive pulmonary disease,unknown,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,2
+Brazil,BRA,2070,2010,104,1120,Chronic obstructive pulmonary disease,females,15318,4,10,1,6,7,3,15,22,45,110,245,462,719,1099,1527,2153,2446,2569,3871,0,4
+Brazil,BRA,2070,2010,104,1120,Chronic obstructive pulmonary disease,unknown,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+Brazil,BRA,2070,2011,104,1120,Chronic obstructive pulmonary disease,females,16830,10,9,2,3,9,6,10,27,42,101,225,501,830,1240,1731,2311,2692,2897,4181,0,3
+Brazil,BRA,2070,2011,104,1120,Chronic obstructive pulmonary disease,unknown,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1
+Brazil,BRA,2070,2012,104,1120,Chronic obstructive pulmonary disease,females,16230,5,10,1,4,3,6,16,28,47,119,231,497,766,1100,1652,2156,2681,2825,4081,0,2
+Brazil,BRA,2070,2012,104,1120,Chronic obstructive pulmonary disease,unknown,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1
+Brazil,BRA,2070,2013,104,1120,Chronic obstructive pulmonary disease,females,17381,5,6,3,6,5,13,16,19,44,100,217,489,862,1280,1770,2374,2852,2974,4341,0,5
+Brazil,BRA,2070,2013,104,1120,Chronic obstructive pulmonary disease,unknown,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,1,0,0,1
+Brazil,BRA,2070,2014,104,1120,Chronic obstructive pulmonary disease,unknown,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,1,3,0,1
+Brazil,BRA,2070,2014,104,1120,Chronic obstructive pulmonary disease,females,17102,6,6,4,6,7,8,12,32,38,79,226,501,806,1231,1659,2268,2792,2910,4510,0,1
+Brazil,BRA,2070,2015,104,1120,Chronic obstructive pulmonary disease,unknown,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,1
+Brazil,BRA,2070,2015,104,1120,Chronic obstructive pulmonary disease,females,18860,3,3,1,3,4,9,9,15,41,108,230,492,899,1297,1806,2511,3114,3211,5102,0,2
+Brazil,BRA,2070,1998,104,1130,Asthma,unknown,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,1998,104,1130,Asthma,females,1626,36,90,6,21,16,20,26,45,72,78,101,92,124,150,157,158,150,141,140,0,3
+Brazil,BRA,2070,1999,104,1130,Asthma,females,1676,31,87,12,14,21,30,25,54,45,91,94,106,124,121,170,179,153,148,163,0,8
+Brazil,BRA,2070,1999,104,1130,Asthma,unknown,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2000,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2000,104,1130,Asthma,females,1537,29,86,18,15,17,22,34,35,44,73,78,106,87,128,155,176,162,131,140,0,1
+Brazil,BRA,2070,2001,104,1130,Asthma,unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Brazil,BRA,2070,2001,104,1130,Asthma,females,1536,41,74,16,13,12,21,29,30,54,71,97,96,116,119,162,176,145,118,146,0,0
+Brazil,BRA,2070,2002,104,1130,Asthma,females,1494,37,76,12,7,21,16,22,39,53,73,75,90,117,117,139,155,167,134,143,0,1
+Brazil,BRA,2070,2002,104,1130,Asthma,unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Brazil,BRA,2070,2003,104,1130,Asthma,females,1499,30,74,8,14,17,15,26,34,60,65,88,103,100,106,141,158,175,125,158,0,2
+Brazil,BRA,2070,2003,104,1130,Asthma,unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2004,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2004,104,1130,Asthma,females,1596,27,57,9,8,15,23,23,37,41,53,94,119,114,151,137,158,175,154,200,0,1
+Brazil,BRA,2070,2005,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2005,104,1130,Asthma,females,1590,27,68,15,14,18,20,33,30,45,79,73,98,120,125,138,157,173,144,212,0,1
+Brazil,BRA,2070,2006,104,1130,Asthma,females,1915,26,62,16,13,13,14,47,39,63,77,121,106,141,145,183,186,175,210,278,0,0
+Brazil,BRA,2070,2006,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2007,104,1130,Asthma,females,1747,22,54,13,12,15,24,30,29,45,87,95,99,81,140,150,184,219,182,264,0,2
+Brazil,BRA,2070,2007,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2008,104,1130,Asthma,females,1661,16,35,14,9,9,28,24,23,45,71,101,113,93,114,141,197,174,191,261,0,2
+Brazil,BRA,2070,2008,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2009,104,1130,Asthma,females,1630,21,41,16,9,8,19,26,28,47,63,84,96,98,140,139,161,152,205,276,0,1
+Brazil,BRA,2070,2009,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2010,104,1130,Asthma,females,1629,12,38,15,17,17,17,29,40,46,47,114,84,87,121,133,151,188,186,287,0,0
+Brazil,BRA,2070,2010,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2011,104,1130,Asthma,females,1544,8,26,11,10,10,15,20,18,43,74,61,79,85,113,127,140,190,199,314,0,1
+Brazil,BRA,2070,2011,104,1130,Asthma,unknown,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2012,104,1130,Asthma,females,1465,12,31,11,17,12,16,15,42,33,49,67,77,88,110,117,130,149,183,305,0,1
+Brazil,BRA,2070,2012,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2013,104,1130,Asthma,females,1552,12,26,12,14,14,15,26,34,46,61,83,79,82,97,110,112,188,175,365,0,1
+Brazil,BRA,2070,2013,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2014,104,1130,Asthma,females,1387,11,24,9,7,8,19,20,27,45,29,72,74,84,103,94,143,159,165,294,0,0
+Brazil,BRA,2070,2014,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2015,104,1130,Asthma,females,1446,6,30,11,7,18,20,15,29,45,44,46,71,87,99,92,142,163,177,344,0,0
+Brazil,BRA,2070,2015,104,1130,Asthma,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2010,104,670,"Trachea, bronchus, lung cancers",males,13677,0,1,0,7,12,19,26,48,83,183,500,1018,1541,1910,2225,2182,1873,1268,776,0,5
+Brazil,BRA,2070,2010,104,1120,Chronic obstructive pulmonary disease,males,22272,22,16,6,10,9,14,26,46,63,130,277,618,1008,1699,2472,3527,4126,3851,4342,0,10
+Brazil,BRA,2070,2010,104,1130,Asthma,males,1003,20,36,14,17,10,12,21,25,26,44,52,55,57,77,77,115,98,104,140,0,3
+Brazil,BRA,2070,2010,104,1530,Fires,males,643,10,42,26,9,14,30,53,39,42,50,57,48,39,26,27,35,32,17,22,0,25
+Brazil,BRA,2070,2010,104,1542,Natural disasters,males,266,3,15,16,15,20,33,20,19,16,22,29,21,13,8,3,5,4,0,0,0,4
+Brazil,BRA,2070,2011,104,30,Tuberculosis,males,3716,6,9,3,5,25,88,126,180,214,306,391,441,442,340,275,266,214,172,158,0,55
+Brazil,BRA,2070,2011,104,390,Lower respiratory infections,males,30097,908,387,116,130,170,218,303,443,566,760,1046,1441,1523,1835,2161,2960,3626,4291,7099,0,114
+Brazil,BRA,2070,2011,104,400,Upper respiratory infections,males,102,11,8,4,2,2,1,1,2,6,2,2,4,3,6,2,10,7,11,18,0,0
+Brazil,BRA,2070,2011,104,410,Otitis media,males,46,7,4,4,1,1,1,1,0,5,0,6,3,5,1,1,1,1,2,2,0,0
+Brazil,BRA,2070,2011,104,670,"Trachea, bronchus, lung cancers",males,13698,0,0,1,6,11,19,30,44,83,201,430,976,1539,2005,2053,2254,1894,1279,864,0,9
+Brazil,BRA,2070,2011,104,1120,Chronic obstructive pulmonary disease,males,23222,8,9,7,3,16,14,25,39,62,105,273,659,1052,1805,2489,3625,4183,4090,4750,0,8
+Brazil,BRA,2070,2011,104,1130,Asthma,males,899,15,28,18,8,8,16,26,18,35,28,29,52,53,65,79,86,97,93,144,0,1
+Brazil,BRA,2070,2011,104,1530,Fires,males,664,4,39,27,11,16,33,39,48,47,53,52,51,45,40,30,24,32,26,18,0,29
+Brazil,BRA,2070,2011,104,1542,Natural disasters,males,540,2,21,49,37,40,25,35,35,31,47,32,27,21,25,22,12,8,2,3,0,66
+Brazil,BRA,2070,2012,104,30,Tuberculosis,males,3544,5,9,5,4,26,75,119,190,232,330,349,452,386,329,289,222,200,148,128,0,46
+Brazil,BRA,2070,2012,104,390,Lower respiratory infections,males,30834,827,402,107,98,167,228,313,444,612,775,1064,1394,1641,1909,2254,3049,3653,4395,7393,0,109
+Brazil,BRA,2070,2012,104,400,Upper respiratory infections,males,72,10,10,2,2,2,4,1,2,2,1,1,1,3,0,3,5,11,6,6,0,0
+Brazil,BRA,2070,2012,104,410,Otitis media,males,37,1,4,3,2,1,1,1,3,3,5,4,2,2,1,0,0,2,0,2,0,0
+Brazil,BRA,2070,2012,104,670,"Trachea, bronchus, lung cancers",males,14275,1,0,0,4,17,30,29,44,90,189,455,970,1605,2008,2280,2291,1987,1377,891,0,7
+Brazil,BRA,2070,2012,104,1120,Chronic obstructive pulmonary disease,males,22469,8,8,5,8,23,15,20,46,55,117,254,624,1069,1690,2527,3400,4005,3929,4655,0,11
+Brazil,BRA,2070,2012,104,1130,Asthma,males,889,17,37,13,11,10,17,22,15,28,26,45,40,63,69,70,81,113,84,128,0,0
+Brazil,BRA,2070,2012,104,1530,Fires,males,696,6,39,24,9,26,51,49,49,56,51,75,44,49,34,27,31,25,13,12,0,26
+Brazil,BRA,2070,2012,104,1542,Natural disasters,males,125,0,1,4,6,17,16,9,18,10,7,9,13,4,4,2,0,2,3,0,0,0
+Brazil,BRA,2070,2013,104,30,Tuberculosis,males,3714,7,1,1,10,27,92,116,210,237,325,370,456,431,344,300,250,191,172,147,0,27
+Brazil,BRA,2070,2013,104,390,Lower respiratory infections,males,34810,966,372,114,110,197,238,316,523,665,898,1279,1501,1912,2169,2601,3314,4136,4922,8479,0,98
+Brazil,BRA,2070,2013,104,400,Upper respiratory infections,males,92,2,9,3,5,4,4,4,2,1,3,3,3,5,2,8,8,6,7,13,0,0
+Brazil,BRA,2070,2013,104,410,Otitis media,males,39,4,4,3,1,2,2,0,2,3,0,3,2,0,3,1,2,3,2,2,0,0
+Brazil,BRA,2070,2013,104,670,"Trachea, bronchus, lung cancers",males,14811,0,1,2,3,11,16,23,57,96,179,436,973,1663,2090,2332,2429,2121,1411,960,0,8
+Brazil,BRA,2070,2013,104,1120,Chronic obstructive pulmonary disease,males,23392,8,12,5,4,19,20,13,33,52,147,293,599,1129,1670,2670,3477,4137,4096,4994,0,14
+Brazil,BRA,2070,2013,104,1130,Asthma,males,835,11,30,17,13,10,24,12,25,28,39,42,32,56,66,55,79,88,94,113,0,1
+Brazil,BRA,2070,2013,104,1530,Fires,males,821,8,46,31,12,54,81,67,45,55,54,71,64,53,44,29,27,13,20,11,0,36
+Brazil,BRA,2070,2013,104,1542,Natural disasters,males,137,0,8,6,7,12,9,15,9,15,6,9,13,14,7,3,1,0,2,0,0,1
+Brazil,BRA,2070,2014,104,30,Tuberculosis,males,3552,8,5,5,0,23,83,113,186,232,293,374,422,393,386,287,211,200,142,143,0,46
+Brazil,BRA,2070,2014,104,390,Lower respiratory infections,males,35358,822,336,92,92,192,255,310,441,607,826,1067,1520,1852,2262,2689,3389,4462,4912,9142,0,90
+Brazil,BRA,2070,2014,104,400,Upper respiratory infections,males,103,8,5,3,3,3,3,7,2,4,4,4,4,4,5,9,2,8,9,16,0,0
+Brazil,BRA,2070,2014,104,410,Otitis media,males,40,2,7,3,2,0,0,1,1,1,3,2,2,2,0,3,3,3,3,2,0,0
+Brazil,BRA,2070,2014,104,670,"Trachea, bronchus, lung cancers",males,15127,1,1,3,6,15,29,27,39,82,181,443,967,1687,2194,2425,2491,2105,1425,1003,0,3
+Brazil,BRA,2070,1998,104,1530,Fires,unknown,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7
+Brazil,BRA,2070,1998,104,1530,Fires,females,522,15,60,27,18,32,46,31,39,36,24,28,24,19,14,23,21,17,18,21,0,9
+Brazil,BRA,2070,1999,104,1530,Fires,females,413,24,62,27,9,23,17,15,27,27,19,22,16,16,7,12,29,25,20,11,0,5
+Brazil,BRA,2070,1999,104,1530,Fires,unknown,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+Brazil,BRA,2070,2000,104,1530,Fires,females,361,25,58,26,5,13,13,17,14,17,20,14,15,18,20,20,14,10,15,20,0,7
+Brazil,BRA,2070,2000,104,1530,Fires,unknown,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Brazil,BRA,2070,2001,104,1530,Fires,females,370,23,43,20,10,17,17,19,11,27,22,25,12,14,9,10,18,24,20,26,0,3
+Brazil,BRA,2070,2001,104,1530,Fires,unknown,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+Brazil,BRA,2070,2002,104,1530,Fires,females,421,19,48,24,5,12,23,23,17,27,14,30,18,14,12,19,15,27,23,35,0,16
+Brazil,BRA,2070,2002,104,1530,Fires,unknown,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Brazil,BRA,2070,2003,104,1530,Fires,females,364,17,48,16,5,12,8,22,16,16,14,20,15,17,13,20,28,24,17,22,0,14
+Brazil,BRA,2070,2003,104,1530,Fires,unknown,5,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,2
+Brazil,BRA,2070,2004,104,1530,Fires,unknown,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Brazil,BRA,2070,2004,104,1530,Fires,females,324,16,39,16,9,10,6,14,13,20,19,19,21,10,15,12,14,25,23,16,0,7
+Brazil,BRA,2070,2005,104,1530,Fires,unknown,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+Brazil,BRA,2070,2005,104,1530,Fires,females,299,14,32,26,7,7,7,12,13,14,15,12,18,15,12,12,25,18,11,25,0,4
+Brazil,BRA,2070,2006,104,1530,Fires,females,311,10,29,21,14,9,8,9,18,11,16,21,15,13,15,20,16,22,18,23,0,3
+Brazil,BRA,2070,2006,104,1530,Fires,unknown,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Brazil,BRA,2070,2007,104,1530,Fires,females,306,8,29,21,3,9,14,18,15,9,21,13,19,18,14,14,16,20,14,28,0,3
+Brazil,BRA,2070,2007,104,1530,Fires,unknown,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Brazil,BRA,2070,2008,104,1530,Fires,unknown,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+Brazil,BRA,2070,2008,104,1530,Fires,females,312,12,33,13,4,10,15,16,12,22,26,12,20,21,17,12,15,16,9,19,0,8
+Brazil,BRA,2070,2009,104,1530,Fires,females,268,10,24,17,7,10,10,13,16,12,11,17,14,8,10,14,16,16,24,16,0,3
+Brazil,BRA,2070,2009,104,1530,Fires,unknown,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Brazil,BRA,2070,2010,104,1530,Fires,unknown,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Brazil,BRA,2070,2010,104,1530,Fires,females,305,3,23,27,12,5,11,15,17,14,21,18,18,13,20,12,16,19,16,17,0,8
+Brazil,BRA,2070,2011,104,1530,Fires,unknown,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+Brazil,BRA,2070,2011,104,1530,Fires,females,377,10,19,17,10,13,15,23,15,16,22,32,20,27,26,26,14,18,20,24,0,10
+Brazil,BRA,2070,2012,104,1530,Fires,females,323,8,26,11,7,12,15,15,19,9,24,20,15,23,17,20,15,24,12,26,0,5
+Brazil,BRA,2070,2012,104,1530,Fires,unknown,10,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,8
+Brazil,BRA,2070,2013,104,1530,Fires,females,429,6,21,15,4,59,62,31,26,13,15,17,24,30,16,18,12,19,17,17,0,7
+Brazil,BRA,2070,2013,104,1530,Fires,unknown,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Brazil,BRA,2070,2014,104,1530,Fires,females,334,4,24,13,11,9,14,21,25,15,19,22,23,18,12,19,13,26,9,33,0,4
+Brazil,BRA,2070,2014,104,1530,Fires,unknown,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Brazil,BRA,2070,2015,104,1530,Fires,females,343,1,17,13,8,11,13,17,18,21,22,19,29,21,13,15,26,23,20,29,0,7
+Brazil,BRA,2070,2015,104,1530,Fires,unknown,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Brazil,BRA,2070,2014,104,1120,Chronic obstructive pulmonary disease,males,22690,5,12,5,7,16,16,29,30,45,121,233,598,1086,1649,2473,3252,4097,3923,5083,0,10
+Brazil,BRA,2070,2014,104,1130,Asthma,males,742,14,33,14,11,12,13,17,25,14,29,35,37,34,45,80,76,74,73,106,0,0
+Brazil,BRA,2070,1998,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,1998,104,1542,Natural disasters,females,38,0,3,6,7,4,5,3,3,2,0,0,1,1,2,0,0,0,0,0,0,1
+Brazil,BRA,2070,1999,104,1542,Natural disasters,females,22,1,3,0,0,3,2,2,3,0,3,0,0,0,5,0,0,0,0,0,0,0
+Brazil,BRA,2070,1999,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2000,104,1542,Natural disasters,females,34,2,2,0,2,6,3,4,1,3,3,1,3,1,1,1,1,0,0,0,0,0
+Brazil,BRA,2070,2000,104,1542,Natural disasters,unknown,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2001,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2001,104,1542,Natural disasters,females,41,1,2,4,2,5,5,4,4,2,1,2,2,0,1,2,0,1,2,1,0,0
+Brazil,BRA,2070,2002,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2002,104,1542,Natural disasters,females,64,0,2,6,7,5,7,8,2,10,3,3,1,5,1,2,0,1,0,0,0,1
+Brazil,BRA,2070,2003,104,1542,Natural disasters,females,71,0,12,9,10,8,3,3,5,4,0,6,1,4,2,1,2,0,1,0,0,0
+Brazil,BRA,2070,2003,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2004,104,1542,Natural disasters,females,26,0,1,1,4,4,4,1,1,2,1,1,1,1,0,0,1,1,0,2,0,0
+Brazil,BRA,2070,2004,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2005,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2005,104,1542,Natural disasters,females,23,1,2,2,2,2,2,1,1,1,4,0,2,2,1,0,0,0,0,0,0,0
+Brazil,BRA,2070,2006,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2006,104,1542,Natural disasters,females,50,0,1,7,3,6,5,3,5,1,5,3,2,3,2,3,0,1,0,0,0,0
+Brazil,BRA,2070,2007,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2007,104,1542,Natural disasters,females,44,1,1,4,5,2,2,6,1,4,5,3,2,4,1,2,1,0,0,0,0,0
+Brazil,BRA,2070,2008,104,1542,Natural disasters,females,96,1,6,13,6,6,7,9,4,4,9,7,3,7,3,7,2,0,2,0,0,0
+Brazil,BRA,2070,2008,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2009,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2009,104,1542,Natural disasters,females,58,2,3,6,6,6,7,2,9,5,3,0,2,3,1,1,2,0,0,0,0,0
+Brazil,BRA,2070,2010,104,1542,Natural disasters,unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Brazil,BRA,2070,2010,104,1542,Natural disasters,females,190,3,12,20,18,15,13,8,16,17,15,12,8,8,2,5,7,2,2,1,0,6
+Brazil,BRA,2070,2011,104,1542,Natural disasters,females,468,6,15,33,36,32,19,32,22,26,24,27,29,23,20,19,16,8,9,5,0,67
+Brazil,BRA,2070,2011,104,1542,Natural disasters,unknown,15,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,13
+Brazil,BRA,2070,2012,104,1542,Natural disasters,females,32,0,1,5,2,1,3,2,4,0,5,4,1,0,3,0,1,0,0,0,0,0
+Brazil,BRA,2070,2012,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2013,104,1542,Natural disasters,females,53,1,2,4,8,6,2,4,7,3,3,1,3,1,1,1,2,1,2,1,0,0
+Brazil,BRA,2070,2013,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2014,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2014,104,1542,Natural disasters,females,22,0,1,5,2,1,2,0,1,1,1,2,3,0,1,1,1,0,0,0,0,0
+Brazil,BRA,2070,2015,104,1542,Natural disasters,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil,BRA,2070,2015,104,1542,Natural disasters,females,24,0,1,3,1,4,3,1,2,0,0,2,1,1,4,1,0,0,0,0,0,0
+Brazil,BRA,2070,2014,104,1530,Fires,males,693,3,40,25,13,17,33,52,42,49,51,54,61,60,40,31,38,31,17,22,0,14
+Brazil,BRA,2070,2014,104,1542,Natural disasters,males,108,1,0,2,5,7,8,13,5,14,11,12,9,4,8,3,2,2,0,0,0,2
+Brazil,BRA,2070,2015,104,30,Tuberculosis,males,3650,2,4,5,8,24,89,119,169,231,304,376,446,412,393,312,234,187,147,154,0,34
+Brazil,BRA,2070,2015,104,390,Lower respiratory infections,males,38231,707,292,90,73,172,264,321,462,631,780,1118,1480,1907,2384,2943,3710,4825,5489,10481,0,102
+Brazil,BRA,2070,2015,104,400,Upper respiratory infections,males,133,10,10,4,6,4,9,2,4,6,5,4,0,4,8,7,10,8,14,18,0,0
+Brazil,BRA,2070,2015,104,410,Otitis media,males,58,5,4,2,1,0,2,3,1,3,2,7,6,6,2,4,3,3,1,3,0,0
+Brazil,BRA,2070,2015,104,670,"Trachea, bronchus, lung cancers",males,15514,1,2,1,3,14,21,29,55,88,186,409,908,1686,2286,2505,2450,2290,1476,1101,0,3
+Brazil,BRA,2070,2015,104,1120,Chronic obstructive pulmonary disease,males,23759,6,5,8,7,15,16,22,23,66,115,270,544,1088,1748,2645,3395,4234,4166,5378,0,8
+Brazil,BRA,2070,2015,104,1130,Asthma,males,786,15,23,10,12,10,21,15,21,25,22,41,49,56,51,74,86,82,78,95,0,0
+Brazil,BRA,2070,2015,104,1530,Fires,males,590,8,23,19,9,16,28,33,36,39,49,40,44,52,36,34,29,33,20,20,0,22
+Brazil,BRA,2070,2015,104,1542,Natural disasters,males,127,0,2,3,5,9,10,10,14,15,13,12,13,10,2,2,3,0,1,1,0,2
